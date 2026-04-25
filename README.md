@@ -60,7 +60,7 @@ El sistema sigue las siguientes fases:
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 phishing-detector/
