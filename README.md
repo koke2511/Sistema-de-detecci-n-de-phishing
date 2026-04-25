@@ -73,3 +73,10 @@ phishing-detector/
 ├── models/              # Modelos entrenados
 ├── .venv/               # Entorno virtual
 └── requirements.txt     # Dependencias
+
+## Uso
+
+### 1. Entrenar el modelo
+
+```bash
+python src/train_model.py
