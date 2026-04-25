@@ -61,3 +61,15 @@ El sistema sigue las siguientes fases:
 ---
 
 ## 📁 Estructura del proyecto
+
+```text
+phishing-detector/
+│
+├── data/                # Dataset de URLs
+├── src/
+│   ├── features.py      # Extracción de características
+│   ├── train_model.py   # Entrenamiento del modelo
+│   └── predict.py       # Predicción manual
+├── models/              # Modelos entrenados
+├── .venv/               # Entorno virtual
+└── requirements.txt     # Dependencias
